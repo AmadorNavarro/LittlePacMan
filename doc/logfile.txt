@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/BlueJ.app/Contents/Frameworks/jdk.framework/Versions/A/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+/Applications/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/Amador/Dropbox/UNED/POO/Practica/PracticaPOO
+-d
+/Users/Amador/Dropbox/UNED/POO/Practica/PracticaPOO/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/Amador/Dropbox/UNED/POO/Practica/PracticaPOO/Player.java
+<---- end of javadoc command ---->
+Loading source file /Users/Amador/Dropbox/UNED/POO/Practica/PracticaPOO/Player.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_45
+Building tree for all the packages and classes...
+Generating /Users/Amador/Dropbox/UNED/POO/Practica/PracticaPOO/doc/Player.html...
+/Users/Amador/Dropbox/UNED/POO/Practica/PracticaPOO/Player.java:239: warning - @return tag cannot be used in method with void return type.
+Generating /Users/Amador/Dropbox/UNED/POO/Practica/PracticaPOO/doc/package-frame.html...
+Generating /Users/Amador/Dropbox/UNED/POO/Practica/PracticaPOO/doc/package-summary.html...
+Generating /Users/Amador/Dropbox/UNED/POO/Practica/PracticaPOO/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/Amador/Dropbox/UNED/POO/Practica/PracticaPOO/doc/allclasses-frame.html...
+Generating /Users/Amador/Dropbox/UNED/POO/Practica/PracticaPOO/doc/allclasses-noframe.html...
+Generating /Users/Amador/Dropbox/UNED/POO/Practica/PracticaPOO/doc/index.html...
+Generating /Users/Amador/Dropbox/UNED/POO/Practica/PracticaPOO/doc/stylesheet.css...
+1 warning

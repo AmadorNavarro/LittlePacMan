@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Map()
+comment0.text=\n\ Constructor\ de\ la\ clase\ map.\n
+comment1.params=
+comment1.target=int\ getRowLength()
+comment1.text=\n\ Devuelve\ el\ n\u00FAmero\ de\ lineas\ del\ mapa.\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ El\ n\u00FAmero\ de\ lineas\ del\ mapa.\n
+comment2.params=
+comment2.target=int\ getColumnLength()
+comment2.text=\n\ Devuelve\ el\ n\u00FAmero\ de\ columnas\ del\ mapa.\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ El\ n\u00FAmero\ de\ columnas\ del\ mapa.\n
+comment3.params=
+comment3.target=void\ fillMap()
+comment3.text=\n\ Rellena\ de\ celdas\ el\ mapa.\n
+comment4.params=row\ column
+comment4.target=java.lang.String\ getEnvironmentOfCell(int,\ int)
+comment4.text=\n\ Devuelve\ el\ entorno\ de\ la\ celda\n\ \n\ @param\ row\ \ \ \ \ \ \ \ \ \ \ La\ linea\ en\ el\ mapa\ de\ la\ celda\n\ @param\ column\ \ \ \ \ \ \ \ La\ columna\ en\ el\ mapa\ de\ la\ celda\n\ \n\ @return\ environment\ \ El\ texto\ de\ las\ salidas\ de\ la\ celda\n
+comment5.params=row\ column
+comment5.target=int\ getCellValue(int,\ int)
+comment5.text=\n\ Devuelve\ el\ valor\ de\ la\ celda\n\ \n\ @param\ row\ \ \ \ \ \ \ \ \ \ \ La\ linea\ en\ el\ mapa\ de\ la\ celda\n\ @param\ column\ \ \ \ \ \ \ \ La\ columna\ en\ el\ mapa\ de\ la\ celda\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ El\ valor\ de\ la\ celda\n
+comment6.params=row\ column
+comment6.target=int\ setCellEmpty(int,\ int)
+comment6.text=\n\ Comprueba\ que\ la\ celda\ no\ sea\ una\ pared\ y\ si\ no\ lo\ es,\n\ vac\u00EDa\ la\ celda\ y\ devuelve\ el\ contenido\n\ \n\ @param\ row\ \ \ \ \ \ \ \ \ \ \ La\ linea\ en\ el\ mapa\ de\ la\ celda\n\ @param\ column\ \ \ \ \ \ \ \ La\ columna\ en\ el\ mapa\ de\ la\ celda\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ El\ valor\ de\ la\ celda\n
+numComments=7

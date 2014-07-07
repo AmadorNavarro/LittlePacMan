@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=row\ column\ exits\ direction\ pixels
+comment0.target=PacManActor(int,\ int,\ java.lang.String,\ int,\ int)
+comment0.text=\n\ Constructor\ de\ PacMan,\ se\ le\ dan\ las\ coordenadas\ iniciales,\ \n\ la\ direcci\u00F3n\ y\ las\ salidas\ de\ la\ celda.\ Empieza\ quieto.\n\ \n\ @param\ row\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ La\ linea\ de\ inicio\n\ @param\ column\ \ \ \ \ \ \ \ \ \ \ \ La\ columna\ inicial\n\ @param\ exits\ \ \ \ \ \ \ \ \ \ \ \ \ La\ cadena\ de\ texto\ con\ las\ salidas\ de\ la\ celda\n\ @param\ direction\ \ \ \ \ \ \ \ \ La\ direcci\u00F3n\ inicial\n\ @param\ pixels\ \ \ \ \ \ \ \ \ \ \ \ Largo\ y\ ancho\ de\ cada\ celda\n
+comment1.params=
+comment1.target=void\ nextMove()
+comment1.text=\n\ Mueve\ a\ PacMan\ en\ la\ direcci\u00F3n\ adecuada\ un\ paso\ y\ actualiza\ el\ fotograma\n
+comment2.params=
+comment2.target=int\ getTotalPhotograms()
+comment2.text=\n\ Devuelve\ el\ n\u00FAmero\ total\ de\ fotogramas\ por\ direcci\u00F3n\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ El\ n\u00FAmero\ total\ de\ fotogramas\ por\ direcci\u00F3n\n
+comment3.params=
+comment3.target=int\ getWidth()
+comment3.text=\n\ Devuelve\ el\ ancho\ del\ fantasma\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ El\ valor\ de\ WIDTH\n
+comment4.params=
+comment4.target=int\ getHeight()
+comment4.text=\n\ Devuelve\ el\ alto\ del\ fantasma\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ El\ valor\ de\ HEIGHT\n
+comment5.params=
+comment5.target=int\ getNextDirection()
+comment5.text=\n\ Devuelve\ la\ siguiente\ direcci\u00F3n\ de\ PacMan\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ La\ siguiente\ direcci\u00F3n\n
+comment6.params=direction
+comment6.target=void\ setDirection(int)
+comment6.text=\n\ Cambia\ la\ direcci\u00F3n\ de\ PacMan\ y\ actualiza\ el\ valor\ de\ move.\n\ \n\ @param\ newDirection\ \ \ \ \ \ La\ nueva\ direcci\u00F3n\ a\ la\ que\ mira\ PacMan\n
+comment7.params=key
+comment7.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment7.text=\n\ recoge\ el\ valor\ de\ la\ tecla\ pulsada\ y\ actualiza\ la\ direcci\u00F3n\n\ \n\ @param\ key\n
+numComments=8

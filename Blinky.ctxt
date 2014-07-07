@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=row\ column\ exits\ direction\ pixels\ delay
+comment0.target=Blinky(int,\ int,\ java.lang.String,\ int,\ int,\ int)
+comment0.text=\n\ Constructor\ de\ Blinky,\ recibe\ los\ par\u00E1metros\ necesarios\ para\ inicializarlo\ en\ la\ superclase\n\ \n\ @param\ row\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ La\ linea\ de\ inicio\n\ @param\ column\ \ \ \ \ \ \ \ \ \ \ \ La\ columna\ inicial\n\ @param\ exits\ \ \ \ \ \ \ \ \ \ \ \ \ La\ cadena\ de\ texto\ con\ las\ salidas\ de\ la\ celda\n\ @param\ direction\ \ \ \ \ \ \ \ \ La\ direcci\u00F3n\ inicial\n\ @param\ pixels\ \ \ \ \ \ \ \ \ \ \ \ Alto\ y\ ancho\ de\ la\ celda\n\ @param\ delay\ \ \ \ \ \ \ \ \ \ \ \ \ Tiempo\ de\ retardo\ antes\ de\ empezar\n
+comment1.params=pacManRow\ pacManColumn
+comment1.target=void\ calculateNextDirection(int,\ int)
+comment1.text=\n\ Calcula\ la\ nueva\ direcci\u00F3n\ de\ Blinky\ seg\u00FAn\ donde\ se\ encuentre\ PacMan,\n\ para\ ello\ se\ le\ pasan\ las\ coordenadas\ donde\ se\ encuentra\ \u00E9l.\n\ \n\ @param\ PacManRow\ \ \ \ \ \ \ \ \ La\ linea\ donde\ est\u00E1\ PacMan\n\ @param\ PacManColumn\ \ \ \ \ \ La\ columna\ donde\ est\u00E1\ PacMan\n
+numComments=2

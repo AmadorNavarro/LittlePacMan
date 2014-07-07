@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pacman()
+comment0.text=\n\ Contructor,\ instancia\ una\ nueva\ partida\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ main\ de\ la\ aplicaci\u00F3n\n
+numComments=2

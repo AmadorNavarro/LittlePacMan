@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=row\ column\ environment\ content
+comment0.target=Cell(int,\ int,\ java.lang.String,\ int)
+comment0.text=\n\ Constructor\ de\ celdas,\ recibe\ las\ coordenadas,\ el\ contenido\ y\ su\ entorno.\n\ \n\ @param\ row\ \ \ \ \ \ \ \ \ \ \ Linea\ dentro\ del\ mapa\n\ @param\ column\ \ \ \ \ \ \ \ Columna\ dentro\ del\ mapa\n\ @param\ environment\ \ \ Cadena\ de\ texto\ con\ las\ paredes\ de\ alrededor\n\ @param\ content\ \ \ \ \ \ \ Indica\ el\ contenido\ de\ la\ celda\n
+comment1.params=
+comment1.target=int\ cleanCell()
+comment1.text=\n\ Modifica\ el\ contenido\ de\ la\ celda,\ simplemente\ la\ vacia\ y\ devuelve\ el\ contenido\ que\ tuviera.\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ El\ contenido\ de\ la\ celda\n
+comment2.params=
+comment2.target=boolean\ isWall()
+comment2.text=\n\ Devuelve\ true\ si\ la\ celda\ es\ una\ pared,\ false\ en\ caso\ contrario.\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ true\ si\ la\ celda\ es\ una\ pared,\ false\ en\ caso\ contrario.\n
+comment3.params=
+comment3.target=java.lang.String\ getEnvironment()
+comment3.text=\n\ Devuelve\ su\ entorno\ en\ formato\ String\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ Su\ entorno\ en\ formato\ String\n
+comment4.params=
+comment4.target=int\ getContent()
+comment4.text=\n\ Devuelve\ el\ contenido\ de\ la\ celda.\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ El\ contenido\ de\ la\ celda.\n
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=totalPoints
+comment0.target=Scoreboard(int)
+comment0.text=\n\ Inicializamos\ con\ 0\ puntos\n\ \n\ @param\ totalPoints\ \ \ \ \ \ \ El\ n\u00FAmero\ de\ puntos\ totales\ del\ juego\n
+comment1.params=
+comment1.target=void\ pointEat()
+comment1.text=\n\ Actualiza\ los\ campos\ cada\ vez\ que\ PacMan\ come\ un\ punto.\n
+comment2.params=
+comment2.target=int\ getScore()
+comment2.text=\n\ Devuelve\ la\ puntuaci\u00F3n\ de\ PacMan\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ La\ puntuaci\u00F3n\ de\ PacMan\n
+comment3.params=
+comment3.target=int\ getPoints()
+comment3.text=\n\ Devuelve\ el\ n\u00FAmero\ de\ puntos\ que\ restan\ por\ comer\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ El\ n\u00FAmero\ de\ puntos\ sin\ comer\n
+numComments=4

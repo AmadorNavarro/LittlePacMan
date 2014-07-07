@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=ref
+comment0.target=WallType\ getTypeWithReference(int)
+comment1.params=ref
+comment1.target=WallType(int)
+comment2.params=
+comment2.target=int\ getReference()
+numComments=3

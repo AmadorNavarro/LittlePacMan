@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GamePlayer()
+comment0.text=\n\ Inicializa\ el\ reproductor\ a\ nulo\n
+comment1.params=track
+comment1.target=void\ playTrack(TrackType)
+comment1.text=\n\ Reproduce\ una\ pista\n\ \n\ @param\ track\ \ \ \ \ \ \ \ \ \ \ \ \ La\ pista\ a\ reproducir\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=boolean\ isPlaying()
+comment3.text=\n\ Devuelve\ si\ se\ est\u00E1\ reproduciendo\ alguna\ pista\ o\ no\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ true\ si\ se\ est\u00E1\ reproduciendo\ alguna\ pista,\ false\ si\ no.\n
+comment4.params=
+comment4.target=void\ stop()
+comment4.text=\n\ Para\ toda\ reproducci\u00F3n\ que\ est\u00E9\ sonando\n
+numComments=5

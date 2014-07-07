@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ image
+comment0.target=PlayerLocation(int,\ int,\ java.lang.String)
+comment0.text=\n\ Constructor\ de\ los\ objetos\ de\ PlayerLocation\n
+comment1.params=
+comment1.target=int\ getX()
+comment1.text=\n\ Devuelve\ x\n\ \n\ @return\ \ \ \ \ el\ valor\ de\ x\n
+comment2.params=
+comment2.target=int\ getY()
+comment2.text=\n\ Devuelve\ y\n\ \n\ @return\ \ \ \ \ el\ valor\ de\ y\n
+comment3.params=
+comment3.target=java.lang.String\ getImageName()
+comment3.text=\n\ Devuelve\ imageName\n\ \n\ @return\ \ \ \ \ el\ nombre\ de\ la\ imagen\n
+numComments=4

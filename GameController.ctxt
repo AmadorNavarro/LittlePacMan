@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameController()
+comment0.text=\n\ Inicializamos\ todos\ los\ objetos,\ creamos\ los\ fantasmas\ y\ a\ PacMan\n
+comment1.params=key
+comment1.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment2.params=
+comment2.target=void\ start()
+comment2.text=\n\ Inicia\ el\ juego\ y\ la\ animaci\u00F3n\ \n
+comment3.params=rows\ columns
+comment3.target=int[][]\ initCellValues(int,\ int)
+comment3.text=\n\ Devuelve\ una\ matriz\ de\ enteros\ con\ los\ valores\ de\ las\ celdas.\n\ \n\ @param\ rows\ \ \ \ \ \ \ \ \ \ lineas\ de\ la\ matriz.\n\ @param\ cloumns\ \ \ \ \ \ \ columnas\ de\ la\ matriz.\n\ \n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ la\ matriz\ con\ los\ valores\ de\ las\ celdas.\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\n\ Cada\ turno\ se\ actualiza\ la\ posici\u00F3n\ de\ los\ personajes\ en\ el\ canvas\n
+comment5.params=
+comment5.target=void\ pacManIsDead()
+comment5.text=\n\ Muere\ PacMan\ y\ se\ acaba\ el\ juego\n
+comment6.params=
+comment6.target=void\ pacManWin()
+comment6.text=\n\ PacMan\ come\ el\ \u00FAltimo\ punto\ y\ gana\ la\ partida\n
+numComments=7
